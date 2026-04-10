@@ -1,6 +1,5 @@
-# neetcode150 solutions
+# NeetCode150 solutions
 
 ```
-  neetcode.io
-
+neetcode.io
 ```
